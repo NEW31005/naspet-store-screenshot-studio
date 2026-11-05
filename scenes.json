@@ -12,8 +12,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2760976,
-      "sha256": "a3d60b21a9d42dff5675ac35194108a3928facfa824ed11f43078955a0db8e34",
+      "bytes": 2765218,
+      "sha256": "517dcafd168460c0e3b492077a2c2151dfef892b44dab6144b58ee397d0f3f73",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome.png",
       "variants": {
@@ -21,30 +21,66 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1193292,
-          "sha256": "1e6dc585a27d1746cf00817609da9a24ea794f396737a6f430861024a35065f8",
+          "bytes": 2260189,
+          "sha256": "e6ed5ae0686557bab20dc79bf4cf938947ee88b04474ca952849ec952e5b34ac",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "517dcafd168460c0e3b492077a2c2151dfef892b44dab6144b58ee397d0f3f73"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 610176,
-          "sha256": "eb5154ea2c20c89c73ea7c814dabc825f6085ff312a5a740180de42fb49f1341",
+          "bytes": 1743379,
+          "sha256": "f9da2f6fcaf2767801d25bad057b84be77ceb44df34447292ac9a608860c6132",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "petHome",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -56,8 +92,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2757737,
-      "sha256": "82fcfa4c1ffc23534a803c117dcbad94081928120f552d09e3b6068315a99120",
+      "bytes": 2762740,
+      "sha256": "b5d9cbec8ded8b61c7a1a180ee92493b408ecc4cde20f836028e3e830fa8df80",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat.png",
       "variants": {
@@ -65,30 +101,66 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1192176,
-          "sha256": "4e9671811e6816166c774a371ccdf2465460df1c56ac55e87fc5ce3902cce496",
+          "bytes": 2256767,
+          "sha256": "45c2fed2f21751cdf76ff76e9e5d7aa9bdcc6d6be45f86c183c5531c569dc155",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "b5d9cbec8ded8b61c7a1a180ee92493b408ecc4cde20f836028e3e830fa8df80"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 609816,
-          "sha256": "c2c57b4292826b906aa197dc4a30d1d64f700594df3210a44683cc04901023e8",
+          "bytes": 940516,
+          "sha256": "294a9b1d2e932957f899e8dfbdf29677ac332e5687fa4b5aaf295a06465f395e",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "aiChat",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -109,13 +181,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 245602,
-          "sha256": "89e1d62a4179494fe0cb62decaa23e22a1757ebdc1fa58b46e7dc209ca82d5fd",
+          "bytes": 275176,
+          "sha256": "25bb5402ae45e3efc3d54ae97db90b81e06fcf07be5f3bf03814e2a3ae2b8d20",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/socialChat.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -124,15 +196,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 152104,
-          "sha256": "631218ecd7a69fc13e2a1ed07c9a98a810e8032211a90b781f4eef83b55e4ff2",
+          "bytes": 455898,
+          "sha256": "c8ba56a08530c880d7a4bb8f0f8eb0ad563e73ddeece16621356fd9f8cfe10e9",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/socialChat.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "friendList",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -153,13 +254,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 477899,
-          "sha256": "731adfa5a9260ae864ebc673b0909cfa11b64340509888c6696173e1b1e11da5",
+          "bytes": 530576,
+          "sha256": "60b8b8e815a0d55afb4a2597602dc5e93e3ae04c9b3f4264cf8819c9e68f4d38",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/socialStickers.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -168,15 +269,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 267821,
-          "sha256": "1696f21b41f3eb517e9281c341bd232a3050ce278f3e7743e102ee4c5fcf9f19",
+          "bytes": 884140,
+          "sha256": "7c9c87b593615acd2a1655e9b543a8bf9cefb91cf4a20a3e81c7cd099d481a20",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/socialStickers.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shop",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -197,13 +327,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 199019,
-          "sha256": "71d926d61c82acc26402ae9792dec95c6e0f10559d308ebddbbfc6bde5444bf0",
+          "bytes": 157309,
+          "sha256": "bbe52d12ed8fe92b4d213c5620795063012282e06ed9ef0e5e27926830f2a21e",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/monthCalendar.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -212,15 +342,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 134122,
-          "sha256": "fae5257850308c820161bbf0fbfa393d63bdf1d6131f69f22a71c285cfcb0225",
+          "bytes": 1249640,
+          "sha256": "6c03c88aafb7f1fa83ea479a041d6e3fa90566038aabe990fb5fa0564ee0c6e4",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/monthCalendar.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "monthCalendar",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -241,13 +400,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 341237,
-          "sha256": "c08f29f1534039c6314f6cfade2cbaa951b706b19e2939f3877b1be713ea5a63",
+          "bytes": 192703,
+          "sha256": "29b394f82f52549d18061bc307f8c90f54de08756008ffb2c39669d3d31757b3",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/sharedSchedule.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -256,15 +415,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 236285,
-          "sha256": "7632011385dda1a9f8bdbf6b1aac75ec8605f86cf8c6cd19b5c19988ff54c777",
+          "bytes": 1250073,
+          "sha256": "8abeb278f1611616201abbddbab3d4e1ef0d81494435af6df42dddd46aeefef6",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/sharedSchedule.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "monthCalendar",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -285,13 +473,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 228699,
-          "sha256": "6108a5fd0461b4d1dd2c091922deb221a0fff613e32b5425eb077dc971a510c7",
+          "bytes": 207861,
+          "sha256": "24b9bcb801b8d5fc85062238c220e6d4a80456812986ef5be36b7d464488fcbf",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/friendList.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -300,15 +488,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 144833,
-          "sha256": "e9d6cf80a82d88d9fe56417af6c8edf3d834fd32b8cbd9107b3e28f778ea03db",
+          "bytes": 646521,
+          "sha256": "0a814c71f4a354ca9075314b0da6d4f19e2c59cd9bc924a6b5b18491c0880a07",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/friendList.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "friendList",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "referralReward",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -320,8 +537,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4486302,
-      "sha256": "b210256e16b79c7abb57a3483d2998c807601a5d5dea8546f2357b27d47c2dc4",
+      "bytes": 4487201,
+      "sha256": "54ba05a5dd75c16af2ea609b344b1531f186b424428cc0dd48f78918a0553c7b",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm.png",
       "variants": {
@@ -329,13 +546,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1854163,
-          "sha256": "d375c52d1c0880900ff469ca2cbf7d605cc39ecd09a090008097db89444debae",
+          "bytes": 1982799,
+          "sha256": "c617fceb1b40b4447f7157319e5f9dff8966fa0dbd90888a8466f1cdbfd6108d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -344,15 +561,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 878814,
-          "sha256": "7cf47afb456996a9ca3a1f3c859fb2d5a5ba788855beedf852e03d291eb9e080",
+          "bytes": 2844771,
+          "sha256": "b1591885bafbb8201202b13113d10589c0bbf4376a423aee96bdc935a7edd7a3",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "personalFarm",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "bossRaid",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -364,8 +610,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4570456,
-      "sha256": "c99d2b2d3d9a8c1936348fabceb0a4c578353510d59c6b19f53572cbcc5008eb",
+      "bytes": 4562515,
+      "sha256": "961f1ac68e9555ba25fb2f1126ae23ec64152bc3f261cdf8ed7fec4b71f802ac",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm.png",
       "variants": {
@@ -373,13 +619,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1913103,
-          "sha256": "dc304c8d6aa124c09fdaa20cd6f43bd303af891b7ced3d6ae27f185b6a855910",
+          "bytes": 2232173,
+          "sha256": "cc76f468aced5b95063128ddd0fea6c0c8b4ef157e7f17426c79d854a9221481",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -388,15 +634,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 903368,
-          "sha256": "82b40717e78f59c82470a24ebe6b24d33ac995d18ecff348f3442dbd7a65d3ce",
+          "bytes": 2076846,
+          "sha256": "c3d6ce63501efd717a7dd8bf6de4f8f4cbbf1bb21fc30f208dbd7a06c997641d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "personalFarm",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -417,13 +692,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 923920,
-          "sha256": "6ba2a47da931d74902a0a3cc37cd6578cee86be3b001966c9ed0346b8f2f6226",
+          "bytes": 990172,
+          "sha256": "6f28b822515429fecb1764e4773afcadd258924da17489c978c2409886c78c13",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shop.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -432,15 +707,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 486591,
-          "sha256": "22d31171c64c76ce03c02ade102383c0218108d70c3536bd36a1e7de26ec0c89",
+          "bytes": 1177725,
+          "sha256": "82062a35f2b4d8d9a2a920b7970b89626aba9e530a4a2993ee6a551af9741ae8",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shop.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "shop",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "referralReward",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -452,8 +756,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 1617868,
-      "sha256": "06dda31bcf262789736bc25b588b1ca48d24660f60d9420e9be93055c39e3e14",
+      "bytes": 1616389,
+      "sha256": "8b89b73eb96bdab7c5361b4757fab9c340d486ee323ad01c35a58493d1b29885",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=referralReward",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/referralReward.png",
       "variants": {
@@ -461,13 +765,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 734987,
-          "sha256": "a82b19d0a6cf9860e8c4c9e088a73da22bd1c207a01f86926c98fef0beaa8328",
+          "bytes": 993691,
+          "sha256": "84a4853859170cc946eccce4a2bd3a521d255eef6cbdfa173eb54a2406460131",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/referralReward.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -476,15 +780,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 400005,
-          "sha256": "18de6b5e5274feecac0645b5bd115add072adf909447037fae4da68fdfedc30a",
+          "bytes": 1054879,
+          "sha256": "406b537a5613aa777dc0700f142a2d2ec90495f78802a37437cbf2d2c990d1e3",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/referralReward.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "referralReward",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "friendList",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shop",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
@@ -496,8 +829,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4089857,
-      "sha256": "d5fd5c16476da6450bb7d4021aec02ac38066f980d1c0684656e304dcc934a84",
+      "bytes": 4089175,
+      "sha256": "e00f49689c78f613e71cd9ab6050da2502b37fe67eefe90ef73f8c275f940691",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid.png",
       "variants": {
@@ -505,13 +838,13 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1694886,
-          "sha256": "30aa14e69273cdd1b9236457887970f5d19d8af6d15529d739124a16d0efa72d",
+          "bytes": 1706085,
+          "sha256": "a4650bc1f52222a21ca861cb33296f3e4990b7731c13fd1f7be5effe1abbec8f",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid.png",
           "contentRect": {
-            "left": 228,
+            "left": 0,
             "top": 0,
-            "width": 623,
+            "width": 1080,
             "height": 1350
           },
           "background": "#FFFAFC"
@@ -520,15 +853,44 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 820061,
-          "sha256": "052c2c208934d2ad58e7d138b0a457a24e60922903290988560cd050e49d2a3f",
+          "bytes": 2517367,
+          "sha256": "ad342ddcaccbdc0b0ef7887532359bb012cfda14873c9f1a0d0dcf55c7e2e072",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid.png",
           "contentRect": {
-            "left": 592,
+            "left": 26,
             "top": 0,
-            "width": 415,
+            "width": 500,
             "height": 900
           },
+          "panels": [
+            {
+              "sceneId": "bossRaid",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "petHome",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
           "background": "#FFFAFC"
         }
       }
