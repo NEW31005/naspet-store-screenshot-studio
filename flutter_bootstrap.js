@@ -34,19 +34,19 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"587c18f873b8ab57330422bce09047420d9c7f42","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"587c18f873b8ab57330422bce09047420d9c7f42","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}],"useLocalCanvasKit":true};
 
 
-(function bootNaspetWithWebPushBridge() {
-  const startFlutter = () => window._flutter.loader.load();
-  const bridge = document.createElement('script');
-  bridge.src = new URL('naspet-social-chat-push.js', document.baseURI).href;
-  bridge.async = false;
-  bridge.addEventListener('load', startFlutter, { once: true });
-  bridge.addEventListener('error', () => {
-    // Push is optional.  A bridge loading error must never block the app.
-    console.warn('Naspet Web Push bridge is unavailable.');
-    startFlutter();
-  }, { once: true });
-  document.head.appendChild(bridge);
-})();
+// The marketing screenshot build is deliberately local-only. Do not load the
+// production Web Push bridge, Supabase bootstrap helpers, AI clients, or any
+// other network-facing integration before starting Flutter.
+window._flutter.loader.load({
+  config: {
+    // Keep even an unexpected engine font fallback on this deployment's
+    // origin. Japanese UI text is served by bundled IPAGothic.
+    fontFallbackBaseUrl: new URL(
+      'assets/assets/studio/fonts/',
+      document.baseURI,
+    ).toString(),
+  },
+});

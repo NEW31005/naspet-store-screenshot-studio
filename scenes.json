@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "2c3f776bd7ea0ba518602e9002572a44ca9ddf07",
+  "data": "synthetic",
+  "locale": "ja-JP",
+  "fixtureTime": "2026-08-08T12:00:00+09:00",
+  "scenes": [
+    {
+      "id": "petHome",
+      "title": "ナスペットホーム",
+      "purpose": "ペットとホームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2765218,
+      "sha256": "517dcafd168460c0e3b492077a2c2151dfef892b44dab6144b58ee397d0f3f73",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome.png"
+    },
+    {
+      "id": "aiChat",
+      "title": "AIチャット・話しかけ",
+      "purpose": "ペットとの会話機能の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2762604,
+      "sha256": "06914e879ab0365512adb386a54afd639a04661a016c798cfd401a745a669ce1",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat.png"
+    },
+    {
+      "id": "socialChat",
+      "title": "有人チャット",
+      "purpose": "グループ・個別チャットの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 481021,
+      "sha256": "cefc80114a2068954f9675f30005d6b0c147b173340c33ae178e18d031360b7c",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=socialChat",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/socialChat.png"
+    },
+    {
+      "id": "socialStickers",
+      "title": "有人チャットのスタンプ一覧",
+      "purpose": "スタンプコレクションの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 1193149,
+      "sha256": "f15cf8f32cfd3292fca01f3844821b28d0c8a5d0ee407c2b17a97ae63f30c1aa",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=socialStickers",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/socialStickers.png"
+    },
+    {
+      "id": "monthCalendar",
+      "title": "月間シフト",
+      "purpose": "シフトの月間表示の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 206630,
+      "sha256": "0bed730d15f518431800c6c51b51fa0f856d999ca00983f30ca9a9a232d976d8",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=monthCalendar",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/monthCalendar.png"
+    },
+    {
+      "id": "sharedSchedule",
+      "title": "共有シフト",
+      "purpose": "グループのシフト共有の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 317118,
+      "sha256": "3ae93aecedfae4c98d3867570fb4e1505f518c3bfe1cdfbfaff53e1857c03479",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=sharedSchedule",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/sharedSchedule.png"
+    },
+    {
+      "id": "friendList",
+      "title": "フレンドカード",
+      "purpose": "フレンド画面の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 459448,
+      "sha256": "cd3881bd83e55298160b2ca10ba61f2099d0a7a67641bda0a0017e1299082157",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=friendList",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/friendList.png"
+    },
+    {
+      "id": "personalFarm",
+      "title": "個人ファーム",
+      "purpose": "個別の畑と育成の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4486254,
+      "sha256": "f9c03a31dab5d9602bc149e2a997cea70f8eabba5de2323010219d56aca305dd",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm.png"
+    },
+    {
+      "id": "shiftFarm",
+      "title": "シフトファーム",
+      "purpose": "グループファームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4571453,
+      "sha256": "5673894c9b6ac958d84038e102f12b3f4944662088b3979019033abc13f4ef86",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm.png"
+    },
+    {
+      "id": "shop",
+      "title": "ナスペットショップ",
+      "purpose": "撮影用の商品・スタンプ表示の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2053513,
+      "sha256": "5ea827874d88fe2b59b76fb061a2cee3ef94eb621b3ca81d17c65b0ac339db3c",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shop",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shop.png"
+    },
+    {
+      "id": "referralReward",
+      "title": "紹介特典",
+      "purpose": "撮影用の紹介特典画面",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 1617868,
+      "sha256": "06dda31bcf262789736bc25b588b1ca48d24660f60d9420e9be93055c39e3e14",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=referralReward",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/referralReward.png"
+    },
+    {
+      "id": "bossRaid",
+      "title": "BOSS戦",
+      "purpose": "BOSS戦の撮影用プレビュー",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4089857,
+      "sha256": "d5fd5c16476da6450bb7d4021aec02ac38066f980d1c0684656e304dcc934a84",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid.png"
+    }
+  ]
+}
