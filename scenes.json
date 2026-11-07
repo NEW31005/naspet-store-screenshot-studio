@@ -4,6 +4,11 @@
   "data": "synthetic",
   "locale": "ja-JP",
   "fixtureTime": "2026-08-08T12:00:00+09:00",
+  "petCapturePose": {
+    "animation": "idle_blink",
+    "frameIndex": 0,
+    "animationStopped": true
+  },
   "scenes": [
     {
       "id": "petHome",
@@ -45,8 +50,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1731247,
-          "sha256": "1aeb3fcba7ecbf7d942a98c6c452406818ecb43dc5e98ab1044c4793fa8756bb",
+          "bytes": 1731233,
+          "sha256": "7364bf340869ea5853a1be929190860606d1cbd3363729cde82e90c44c14b37d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome.png",
           "contentRect": {
             "left": 26,
@@ -85,11 +90,6 @@
           ],
           "background": "#FFFAFC"
         }
-      },
-      "capturePose": {
-        "animation": "idle_blink",
-        "frameIndex": 0,
-        "animationStopped": true
       }
     },
     {
@@ -101,8 +101,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2762740,
-      "sha256": "b5d9cbec8ded8b61c7a1a180ee92493b408ecc4cde20f836028e3e830fa8df80",
+      "bytes": 2763713,
+      "sha256": "7f7a0db7c2b07daebd4d12030cebafd87f8e5b237aa2e6ba52d11fcc70874553",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat.png",
       "variants": {
@@ -110,8 +110,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2256767,
-          "sha256": "45c2fed2f21751cdf76ff76e9e5d7aa9bdcc6d6be45f86c183c5531c569dc155",
+          "bytes": 2259544,
+          "sha256": "7a76de0318544503b97b6c8d11598b512c6de8c7d02983b79a79a4e27592eb53",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat.png",
           "contentRect": {
             "left": 0,
@@ -125,15 +125,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "b5d9cbec8ded8b61c7a1a180ee92493b408ecc4cde20f836028e3e830fa8df80"
+            "sha256": "7f7a0db7c2b07daebd4d12030cebafd87f8e5b237aa2e6ba52d11fcc70874553"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 940257,
-          "sha256": "cc94a37525dc9e7ecd91c836d358b471b3036155908420b0e6b872465d8a74ec",
+          "bytes": 940299,
+          "sha256": "c5194300558eec5cb28793f9916b1e0c6f682efde4d9aa01079d8d3a1a376e38",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat.png",
           "contentRect": {
             "left": 26,
@@ -357,8 +357,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1239191,
-          "sha256": "18101ec3bf7e74d21d482a4ec9175b85266538028c8ed7dc02a93f977f423f21",
+          "bytes": 1239436,
+          "sha256": "eb36f5990e6780c2136c4accfed1109cf2dc539f2ead61441db08479811da487",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/monthCalendar.png",
           "contentRect": {
             "left": 26,
@@ -432,8 +432,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1239613,
-          "sha256": "d8f40cc893fd4f99d7eaf41f7972662c5835f1baad6afc8095f195875b3f08e6",
+          "bytes": 1239877,
+          "sha256": "d5794db796974aaa3cc357eb94972653df146997010c8fd6bc143329573947ac",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/sharedSchedule.png",
           "contentRect": {
             "left": 26,
@@ -558,8 +558,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4492138,
-      "sha256": "6e38e32925ac08c3dac9d34328707730c6aed5430a8d259a13d15f442755acd5",
+      "bytes": 4492651,
+      "sha256": "8e9899ba701bbcdd198c7a3ff396d888a4dc39b48bd56d388daf3fbca3de69b8",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm.png",
       "variants": {
@@ -567,8 +567,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1983768,
-          "sha256": "9675b302a83696b417db472b039e6f14a27269cab2d8a723f711132e179c7025",
+          "bytes": 3178506,
+          "sha256": "5a3b167f66d8b4567c1d31702270c7042cf31203a4ba40740898bc5ced5522ff",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm.png",
           "contentRect": {
             "left": 0,
@@ -576,14 +576,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "8e9899ba701bbcdd198c7a3ff396d888a4dc39b48bd56d388daf3fbca3de69b8"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2834446,
-          "sha256": "1bcb6d5e3f0b63210c9edcf080c0afab868e34c38be8dffa93c4028939ece894",
+          "bytes": 2834548,
+          "sha256": "ff6dd2dc3c75e0f0bef16b58e81f56b235847a9c0ae72500c9d7e4e9a6af4eae",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm.png",
           "contentRect": {
             "left": 26,
@@ -633,8 +640,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4521018,
-      "sha256": "d2d83281a0477139c79d35e26c62f329db12a8041e9231dab028c4957e54b173",
+      "bytes": 4544166,
+      "sha256": "f9a5b704ac233f1ee24dcc9c5cc97f24e26754f9217de1b5193e7fd0e46ada9b",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm.png",
       "variants": {
@@ -642,8 +649,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2210305,
-          "sha256": "688e4eb64f551e06d896eda98ac82e5fe28f269c6501236312c3472f1f2a1b3a",
+          "bytes": 2997433,
+          "sha256": "ecca59aff2aefa49be47f6f8f51ac802b486fe34d374a2418e7a679f347afe92",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm.png",
           "contentRect": {
             "left": 0,
@@ -651,14 +658,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "f9a5b704ac233f1ee24dcc9c5cc97f24e26754f9217de1b5193e7fd0e46ada9b"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2066700,
-          "sha256": "d6c1f0b224f0fc85ad82e1e53bfad32dd542115542a693fde60281be88ea4ace",
+          "bytes": 2066830,
+          "sha256": "bcd80c1553d4a82235afe0938bb808b7ca1be281a75798b343e04f6fc9deb67c",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm.png",
           "contentRect": {
             "left": 26,
@@ -867,8 +881,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1706022,
-          "sha256": "d6f3cb0755b22c6eb8cd3b2bda10b3523250792585567ba7885dc4476e1c23af",
+          "bytes": 1706085,
+          "sha256": "a4650bc1f52222a21ca861cb33296f3e4990b7731c13fd1f7be5effe1abbec8f",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid.png",
           "contentRect": {
             "left": 0,
@@ -882,8 +896,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2504902,
-          "sha256": "70d0220cb9b1412d373c01af8bc39b5cc9f9189aa19b5704ecb61f142ab60158",
+          "bytes": 2505278,
+          "sha256": "e11a434a5c871141d91dbd6231e6b4227d6f89c53dd8a4ede46e914f9dba497a",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid.png",
           "contentRect": {
             "left": 26,
@@ -933,8 +947,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2748943,
-      "sha256": "921c2fac0afb0030f512d41b9201719011deea8febab0aa71406cd82cb0b6cd6",
+      "bytes": 2752337,
+      "sha256": "edd68d4d6c68294b56a3b1dbda26845e96f92aa4e6bccb3dc05852435df85930",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=mimiru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-mimiru.png",
       "variants": {
@@ -942,8 +956,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2219344,
-          "sha256": "14dbdbe0ce03b0ea456c48f72801e2eb644fe17ed6031a616af71b9237ed9566",
+          "bytes": 2229356,
+          "sha256": "d533aa8433e3b324df232a9e6277996fdd05872adccd1a3be305d7f5a319e216",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-mimiru.png",
           "contentRect": {
             "left": 0,
@@ -957,15 +971,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "921c2fac0afb0030f512d41b9201719011deea8febab0aa71406cd82cb0b6cd6"
+            "sha256": "edd68d4d6c68294b56a3b1dbda26845e96f92aa4e6bccb3dc05852435df85930"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1726870,
-          "sha256": "abcdc1d4d5022fba8769017f31d2286b27c7b734b519eac97a5cf8ac11a1d56f",
+          "bytes": 1730459,
+          "sha256": "0489fbe924f8262a77404c65e1e6e63f3d6e1d472a371a6a076dea20eccc124a",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-mimiru.png",
           "contentRect": {
             "left": 26,
@@ -1015,8 +1029,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2743285,
-      "sha256": "79e3fe4a645e6867894060a3d00b2deda9569fb6f294c48248dd05536a21308a",
+      "bytes": 2748028,
+      "sha256": "a498ea98d3fa819ae30a29eb6a53e407abbdeac9ec46847f3552c7da3f166e0e",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=mimiru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-mimiru.png",
       "variants": {
@@ -1024,8 +1038,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2214398,
-          "sha256": "a9a23a5f0c65c168d64539d6210cdb0f667a6704a9e6c7ab94f4f0e9c811daab",
+          "bytes": 2226459,
+          "sha256": "e38d51c8109f513f0065ee84bfdf8e1e659f9ff03dd24d02361168f5a792f29d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-mimiru.png",
           "contentRect": {
             "left": 0,
@@ -1039,15 +1053,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "79e3fe4a645e6867894060a3d00b2deda9569fb6f294c48248dd05536a21308a"
+            "sha256": "a498ea98d3fa819ae30a29eb6a53e407abbdeac9ec46847f3552c7da3f166e0e"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 939931,
-          "sha256": "1e61a8a84ca83ebe28e5d1c534c8b2ca29a10b6de14afa1c31053d36f891f8e2",
+          "bytes": 939328,
+          "sha256": "45fc7d21a2c910ceae5d096b554567ed7c42445d27a0b0d0ec38864697f05281",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-mimiru.png",
           "contentRect": {
             "left": 26,
@@ -1097,8 +1111,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4493209,
-      "sha256": "44bfbfd877a5ebaa883e2aa5fd7d9d466cce74b48eafcab5b4d3938f6a82add2",
+      "bytes": 4494015,
+      "sha256": "f5656a7a92199b6170cdbbe9402ff79ac150f032a09d879aaa68edd6512f4801",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=mimiru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-mimiru.png",
       "variants": {
@@ -1106,8 +1120,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1983883,
-          "sha256": "cd8ed10ba1572c6e88bf2bf86028ceb34b9701e05eef837fb792e4cb02804c1a",
+          "bytes": 3177603,
+          "sha256": "165b03f1af07291ccbba549b2dc796473941d8728fac556aeeba50a78369fe08",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-mimiru.png",
           "contentRect": {
             "left": 0,
@@ -1115,14 +1129,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "f5656a7a92199b6170cdbbe9402ff79ac150f032a09d879aaa68edd6512f4801"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2835887,
-          "sha256": "53e0944c069f479d304c2e020812430e54d82051136b5090a2ad357659187dda",
+          "bytes": 2835984,
+          "sha256": "18974913f4dfca35df77b7178af6c4c677982539594141206801cc6d3a225c1f",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-mimiru.png",
           "contentRect": {
             "left": 26,
@@ -1172,8 +1193,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4516870,
-      "sha256": "d553d3cf6cc532f8fe5ed2577e5b30391a63429cef03bb1bff96a42c69eb0415",
+      "bytes": 4545077,
+      "sha256": "2f7f59f1b9e75301d323fb12370846e035e45d0477588394282830eaffe64d48",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=mimiru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-mimiru.png",
       "variants": {
@@ -1181,8 +1202,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2207096,
-          "sha256": "413bc91a567aed04d0075d281d897f855cb57a4ef0b7118c522d25626470f43b",
+          "bytes": 2994318,
+          "sha256": "3fe7861cc0926f76b71b191835b8f9fcb40e9d1d46eff436a364b92d6d44ce3e",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-mimiru.png",
           "contentRect": {
             "left": 0,
@@ -1190,14 +1211,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "2f7f59f1b9e75301d323fb12370846e035e45d0477588394282830eaffe64d48"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2066069,
-          "sha256": "77498c8f1d10a71bff7ba173ba60a67f353626878b371954951c3feda89ef6f4",
+          "bytes": 2066092,
+          "sha256": "db96994ad0eb543fd9c3bf3efe1e52460f6622117f67b6ffe6e54025f36a0188",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-mimiru.png",
           "contentRect": {
             "left": 26,
@@ -1256,8 +1284,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1701564,
-          "sha256": "4167536866408521ff5d3781a37aaf5b35b689ace712d58f9f36feb436de6b14",
+          "bytes": 1701842,
+          "sha256": "96f4d11dc873f0c4130e82604fb787e8e0fe304f161e9d5d8b7052af808aaf66",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-mimiru.png",
           "contentRect": {
             "left": 0,
@@ -1271,8 +1299,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2503193,
-          "sha256": "511bb7deaabc016a6b0c485e5aa86e4de9794ca76df1358049ac275301e2547b",
+          "bytes": 2506798,
+          "sha256": "6b98aacb9fc325935e6126010f44298fc4e8852de731c7a7981c4d8ce49823a4",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-mimiru.png",
           "contentRect": {
             "left": 26,
@@ -1322,8 +1350,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2773159,
-      "sha256": "2715cef04060c27c37c3c6c77fda8a19c14391d3f1d35098d94740cd0013c4bb",
+      "bytes": 2793151,
+      "sha256": "fe58e1f01f216829cad5fde4bc55f19b726cbd6b5173b81949173edcc16e1323",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=hamuru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-hamuru.png",
       "variants": {
@@ -1331,8 +1359,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2279968,
-          "sha256": "066b59eeeec9e204de09463162888080b19e288f50c9fede014c8a62f060812f",
+          "bytes": 2299429,
+          "sha256": "a9ca6d0093b6d253c4a2908008193fa4bbe0b1003717ccad3a2d151686686330",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-hamuru.png",
           "contentRect": {
             "left": 0,
@@ -1346,15 +1374,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "2715cef04060c27c37c3c6c77fda8a19c14391d3f1d35098d94740cd0013c4bb"
+            "sha256": "fe58e1f01f216829cad5fde4bc55f19b726cbd6b5173b81949173edcc16e1323"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1736203,
-          "sha256": "fac924470e3263110b8b97d051fe8d57baf62ee8b67df4734ca0802606eb47a3",
+          "bytes": 1737350,
+          "sha256": "fabfe8383b546b2135559a2ef3312a29f5c2fb881d6afb218b9fdcbd48128d2d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-hamuru.png",
           "contentRect": {
             "left": 26,
@@ -1404,8 +1432,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2787136,
-      "sha256": "ee76c14ff9a0f171a4c498a094291c49aeeda3b343710112e9115d4132bda316",
+      "bytes": 2787960,
+      "sha256": "ee2f5fe9e01463e976df98b46a2d2f98db2407dde2b0bb23b655f4c7721b9637",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=hamuru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-hamuru.png",
       "variants": {
@@ -1413,8 +1441,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2295260,
-          "sha256": "2cfcfa0ddbc893871eca20695f17921a10100db9791eee74a8272508d539fd44",
+          "bytes": 2297000,
+          "sha256": "f68f8f57bb9f3045cc0490e7ad7e020c8cebb10b7ce57376a46d0a48e09d9743",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-hamuru.png",
           "contentRect": {
             "left": 0,
@@ -1428,15 +1456,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "ee76c14ff9a0f171a4c498a094291c49aeeda3b343710112e9115d4132bda316"
+            "sha256": "ee2f5fe9e01463e976df98b46a2d2f98db2407dde2b0bb23b655f4c7721b9637"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 945331,
-          "sha256": "91aa4b15a6fc5d18bccdca6e119afbf0f6d3cc91fd21a36aefc526356a85502e",
+          "bytes": 945736,
+          "sha256": "b60976e77831f432071ced4bdf1ee4734a150e3cf48d31229e7cf0aa79c846c1",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-hamuru.png",
           "contentRect": {
             "left": 26,
@@ -1486,8 +1514,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4494943,
-      "sha256": "34841b33b74133e5f8db0387bead61e9f4786867c1726479009f11c73f844aac",
+      "bytes": 4496981,
+      "sha256": "e133570b4d26bf0139043675890c7727811050bfc94e662f8c2ab8a97b6bed71",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=hamuru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-hamuru.png",
       "variants": {
@@ -1495,8 +1523,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1983776,
-          "sha256": "70b65b1371cf06f0bdb03fae6fa06de15a580218f13873361155e99c57821c98",
+          "bytes": 3184213,
+          "sha256": "ea488b3753f7bd144a9c2d861fe516171d9f1cd60074b40b2deb9b4f39c3d9cf",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-hamuru.png",
           "contentRect": {
             "left": 0,
@@ -1504,14 +1532,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "e133570b4d26bf0139043675890c7727811050bfc94e662f8c2ab8a97b6bed71"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2837848,
-          "sha256": "13940e010d91b4f6cf96357aec6b272d4b2b21981f39b28e98163b399d130b0b",
+          "bytes": 2838137,
+          "sha256": "4182840f48ad324889fb1596507aae3f6115d357ae7968136ed6a775725880f7",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-hamuru.png",
           "contentRect": {
             "left": 26,
@@ -1561,8 +1596,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4520582,
-      "sha256": "a9bc882acc8e36d2a65cd9080a18dc613f583808b806c03195fa784e7aa4c0b1",
+      "bytes": 4547567,
+      "sha256": "5010a415452760b4f28d8b8bfa2b65622b58d050369c8123969f789de7f05224",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=hamuru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-hamuru.png",
       "variants": {
@@ -1570,8 +1605,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2208420,
-          "sha256": "58e38e41f7a7f1a66a7cbc5e07f5284588c2cb22aa1d90e3bb98dad2451ae0fd",
+          "bytes": 3001591,
+          "sha256": "0c5fa65f9df2e0120e0713bcf5729c51b9266cea82d8cc4ae5ec7f26f6862ffc",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-hamuru.png",
           "contentRect": {
             "left": 0,
@@ -1579,14 +1614,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "5010a415452760b4f28d8b8bfa2b65622b58d050369c8123969f789de7f05224"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2067271,
-          "sha256": "e4b5be1e7c8a6e7e369f78121d5b0b8bf7564920e02cca22da209538c7a114e1",
+          "bytes": 2067555,
+          "sha256": "4cd6483f3c9cac948b837189e9b98439a8e1035bc4cb075a60dc1cb68fc5bec2",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-hamuru.png",
           "contentRect": {
             "left": 26,
@@ -1645,8 +1687,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1707299,
-          "sha256": "fbdfad7474c269bca444604420c7007017f4db6449dad0fad6de6e1401852ddb",
+          "bytes": 1707567,
+          "sha256": "be5c3d7061500931099dd7798549ecc98a46862c6aaa613b06d4ac49640c0978",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-hamuru.png",
           "contentRect": {
             "left": 0,
@@ -1660,8 +1702,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2513391,
-          "sha256": "56fbbc1ad5b2afcec087b6ee8ea03434fefc90fe7870cf485dc249723230b4c3",
+          "bytes": 2514734,
+          "sha256": "08304d5b0f3f4405840fb0b47e9d2b2141f2529c51c45ff8670124b878377b2e",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-hamuru.png",
           "contentRect": {
             "left": 26,
@@ -1711,8 +1753,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2999157,
-      "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970",
+      "bytes": 3017018,
+      "sha256": "55e26ad678511c0f0cb40deeb8c8b732de2deb26d4715326d4df889b1f622428",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=rugaru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-rugaru.png",
       "variants": {
@@ -1720,8 +1762,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2579945,
-          "sha256": "ef41adb8493cc519b385042f458e10a766d82d3317fa503b384f19eb5aa29d62",
+          "bytes": 2599181,
+          "sha256": "c575f8f314818019666d321b0048cce492bf0c9c373ff0cadace415a26d465c6",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-rugaru.png",
           "contentRect": {
             "left": 0,
@@ -1735,15 +1777,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970"
+            "sha256": "55e26ad678511c0f0cb40deeb8c8b732de2deb26d4715326d4df889b1f622428"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1834653,
-          "sha256": "913bc78fce8aa37ffd3e7353642a424a2e9df2796c12b8d09305084737bd53d9",
+          "bytes": 1839246,
+          "sha256": "7a7b91bf1d21356de9c4fad6dd7a4426db00b04546e9f16c12d3018030329541",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-rugaru.png",
           "contentRect": {
             "left": 26,
@@ -1793,8 +1835,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2999157,
-      "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970",
+      "bytes": 3017018,
+      "sha256": "55e26ad678511c0f0cb40deeb8c8b732de2deb26d4715326d4df889b1f622428",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=rugaru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-rugaru.png",
       "variants": {
@@ -1802,8 +1844,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2579945,
-          "sha256": "ef41adb8493cc519b385042f458e10a766d82d3317fa503b384f19eb5aa29d62",
+          "bytes": 2599181,
+          "sha256": "c575f8f314818019666d321b0048cce492bf0c9c373ff0cadace415a26d465c6",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-rugaru.png",
           "contentRect": {
             "left": 0,
@@ -1817,15 +1859,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970"
+            "sha256": "55e26ad678511c0f0cb40deeb8c8b732de2deb26d4715326d4df889b1f622428"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1027223,
-          "sha256": "517a1404a4c95ff8ce0f429db405d3b5242d450986abc0a7a6ee1a8e69e02d5e",
+          "bytes": 1032320,
+          "sha256": "fedbfd7ef71177aa62908d163ffc48831aae9b43cd8a55236e5c2c90f72c17d2",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-rugaru.png",
           "contentRect": {
             "left": 26,
@@ -1884,8 +1926,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1983879,
-          "sha256": "a0e9005cc49c0a9d999cf937fcbd4cd70e19f9dd76c41d7b4932441fb2c6c27c",
+          "bytes": 3180673,
+          "sha256": "4fbc3de6affc3667e2f0b96a8b2d0329d19e459f524a419be00c8458f2a99f75",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-rugaru.png",
           "contentRect": {
             "left": 0,
@@ -1893,14 +1935,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "f8fd0a43ee90f3b217dc2c2519ba4078eeef1fd85e5ca2596d7c06eb188a72e6"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2836060,
-          "sha256": "7c886c24c61b683ac1a0cb90e34c2fe584ff34aab2fbc52dcf2915f0e8afea0e",
+          "bytes": 2836160,
+          "sha256": "95a55cd3d1d2f0e0c430415be3b1aede12223a1a526481af70334bc71e11d38d",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-rugaru.png",
           "contentRect": {
             "left": 26,
@@ -1950,8 +1999,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4529997,
-      "sha256": "cb9d3c007ec3e42d1dca24053af459c11ca68266c711e602993deaa61b587874",
+      "bytes": 4549557,
+      "sha256": "4ab8760bf8b74c242a699728547d3f930991b8d82f521e41784d3484349d71d7",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=rugaru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-rugaru.png",
       "variants": {
@@ -1959,8 +2008,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2209337,
-          "sha256": "05264cff3977c4e5a584c74a28cfc0decb8397066d7d7fa6aa08b16018d17fed",
+          "bytes": 3004170,
+          "sha256": "f04fa7c1325b6b11e393821680e59e361f0b5d41a85bd371aa1a16759ad27f68",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-rugaru.png",
           "contentRect": {
             "left": 0,
@@ -1968,14 +2017,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "4ab8760bf8b74c242a699728547d3f930991b8d82f521e41784d3484349d71d7"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2067543,
-          "sha256": "b92d3f676d83b706fac89a2f32d798e96833ec9a68c9cd3e2047434bb430eafa",
+          "bytes": 2067528,
+          "sha256": "b62a6b7bc90202554fc3201880a6ea13c363b78228e7981d77a19f3a82c587fc",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-rugaru.png",
           "contentRect": {
             "left": 26,
@@ -2034,8 +2090,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1711035,
-          "sha256": "f1a220f4a1634841384e821e05dad86a0affcc090d03e42bcf9d82b624abf82d",
+          "bytes": 1711467,
+          "sha256": "d84306640127239a773540408535ebd49cf4e77d1e668bfd4e0dd663a94e9b5c",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-rugaru.png",
           "contentRect": {
             "left": 0,
@@ -2049,8 +2105,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2611119,
-          "sha256": "81cef0638c9b564de26a706e5892186e6bddc6eb8ac9aaf7127f73a9fb123817",
+          "bytes": 2615815,
+          "sha256": "3ea4b4338af3011f5ea0ab31cb5d3f7702310dbc8fa571543aec5b310c2dec9f",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-rugaru.png",
           "contentRect": {
             "left": 26,
@@ -2100,8 +2156,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2797914,
-      "sha256": "469dc4304a0819ece8ef7ab39d321d853b7d1c57aee372a0d4055cac10f8b061",
+      "bytes": 2799738,
+      "sha256": "9ec4c68d0c940a086780ccbe3e56251fbe609c740ed05700914d9cd96cf155f7",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=kokoru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-kokoru.png",
       "variants": {
@@ -2109,8 +2165,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2290935,
-          "sha256": "560ca3d9e8c0523caaba9e639c8b257ceeda0454a0f31aed92e4d73669bfc208",
+          "bytes": 2293462,
+          "sha256": "9c89cf49788987862cde54b221a25dfa44b65b754227c838b0fd0ec2884bfefe",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-kokoru.png",
           "contentRect": {
             "left": 0,
@@ -2124,15 +2180,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "469dc4304a0819ece8ef7ab39d321d853b7d1c57aee372a0d4055cac10f8b061"
+            "sha256": "9ec4c68d0c940a086780ccbe3e56251fbe609c740ed05700914d9cd96cf155f7"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1737078,
-          "sha256": "de7ab761a0bb472279808008aa710c7e2cf0a4e90aa1bb285a91834a6117977e",
+          "bytes": 1737596,
+          "sha256": "faf5916e05c326505c387d15616e8d6c046be036736cf6bdbcaec5e82d6199b4",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-kokoru.png",
           "contentRect": {
             "left": 26,
@@ -2182,8 +2238,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2789231,
-      "sha256": "76a3d4dfe69d4cf21ad66c23ee8b338abb218c1a10ef6ad61e48c1d84bd57037",
+      "bytes": 2795457,
+      "sha256": "ea4a529956d33c5fb92a961257df7c262673049b25842723338a2ad89c32cf78",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=kokoru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-kokoru.png",
       "variants": {
@@ -2191,8 +2247,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2281440,
-          "sha256": "ae435cb4a016a7210ddd7e26a06e45233a1830ba7b3568077c58387b641ba687",
+          "bytes": 2290093,
+          "sha256": "7f30be363bdf515cebec84a6276ec8c3830bfb7e7499f3eedd820da4dea6dfc7",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-kokoru.png",
           "contentRect": {
             "left": 0,
@@ -2206,15 +2262,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "76a3d4dfe69d4cf21ad66c23ee8b338abb218c1a10ef6ad61e48c1d84bd57037"
+            "sha256": "ea4a529956d33c5fb92a961257df7c262673049b25842723338a2ad89c32cf78"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 946220,
-          "sha256": "d40cc96a89d9ca83ba4f331c3d0f6b10a16e2c10bac8b6938b0b3032f30838ef",
+          "bytes": 946211,
+          "sha256": "a6be1200c343b78da0d3d81b17a5e25ba30648b40c0df03e84c11602a9442e03",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-kokoru.png",
           "contentRect": {
             "left": 26,
@@ -2264,8 +2320,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4498413,
-      "sha256": "0be348345dc91c333f46c2107fdb694bdc5d8fc2662ede474bfd99da13a1c630",
+      "bytes": 4498575,
+      "sha256": "766861bb746b8e1106c150e3697c14305cadc33909d907373d5d5337f3e7d58c",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=kokoru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-kokoru.png",
       "variants": {
@@ -2273,8 +2329,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1983643,
-          "sha256": "6fea4076ec11987ace622559cc24835de273cd5d59afb9247e8d9fdc00b933eb",
+          "bytes": 3181812,
+          "sha256": "a7a86f6656e7fa007c009cfa0d28ec2969226135dad10554bbd6583e93fe9caf",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-kokoru.png",
           "contentRect": {
             "left": 0,
@@ -2282,14 +2338,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "766861bb746b8e1106c150e3697c14305cadc33909d907373d5d5337f3e7d58c"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2837850,
-          "sha256": "6b9f612c9a60d47129bbec161ff3a721eb8599e6cda23d5de7b4343d88ed2941",
+          "bytes": 2837933,
+          "sha256": "8727d8584ff069a102d78ddf6c9bc56af086bd68e04d725461702287387829e0",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-kokoru.png",
           "contentRect": {
             "left": 26,
@@ -2339,8 +2402,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4538715,
-      "sha256": "bd52c1be761e61d53bd370a15069b6b935fdeb28c8af045aa9c067700e5f8116",
+      "bytes": 4547466,
+      "sha256": "9e73d4ac3f83ee0537ac2babb91e46c545183512c0217236ad826f452245b4c8",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=kokoru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-kokoru.png",
       "variants": {
@@ -2348,8 +2411,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2206662,
-          "sha256": "42bbee825c5566bc666b37d493cbe181a87372c5b116ff80e049234388c8b084",
+          "bytes": 2999206,
+          "sha256": "557dc20529df97e4a560bc12ff509896d74828c999c1f6151e5649177b2b6c03",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-kokoru.png",
           "contentRect": {
             "left": 0,
@@ -2357,14 +2420,21 @@
             "width": 1080,
             "height": 1350
           },
-          "background": "#FFFAFC"
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 0,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "9e73d4ac3f83ee0537ac2babb91e46c545183512c0217236ad826f452245b4c8"
+          }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2067003,
-          "sha256": "6dbdb8b47fc30632eabb61bf5a647d0f52c3eee45915a149cf67a3c27834bb96",
+          "bytes": 2067164,
+          "sha256": "7e57d3e683d18824ff5841469bd217b757873dfc6651bb84f8a394a93b6f6895",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-kokoru.png",
           "contentRect": {
             "left": 26,
@@ -2414,8 +2484,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4096563,
-      "sha256": "9a2fe3e8f129e8b36d2928e7cbe5327a8152bbc4bfde7cdd711004394d3e7bd5",
+      "bytes": 4098588,
+      "sha256": "8d11684aec855c8f27deda86dea0c8272d05d1c6af51308583cbb09d6e48b488",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid&pet=kokoru",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid-kokoru.png",
       "variants": {
@@ -2438,8 +2508,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2514470,
-          "sha256": "57aaafe0f1293c3c4d977091b8e3d7f4b4c243133d6ecb3ae4001837cfb06b57",
+          "bytes": 2514805,
+          "sha256": "1873ccfc699f4d1654dd13a29951de252be0982ee720809a2fc52bab7152a69a",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-kokoru.png",
           "contentRect": {
             "left": 26,
@@ -2480,43 +2550,5 @@
         }
       }
     }
-  ],
-  "openEyeRefresh": {
-    "completed": [
-      "petHome"
-    ],
-    "remaining": [
-      "aiChat",
-      "socialChat",
-      "socialStickers",
-      "monthCalendar",
-      "sharedSchedule",
-      "friendList",
-      "personalFarm",
-      "shiftFarm",
-      "shop",
-      "referralReward",
-      "bossRaid",
-      "petHome-mimiru",
-      "aiChat-mimiru",
-      "personalFarm-mimiru",
-      "shiftFarm-mimiru",
-      "bossRaid-mimiru",
-      "petHome-hamuru",
-      "aiChat-hamuru",
-      "personalFarm-hamuru",
-      "shiftFarm-hamuru",
-      "bossRaid-hamuru",
-      "petHome-rugaru",
-      "aiChat-rugaru",
-      "personalFarm-rugaru",
-      "shiftFarm-rugaru",
-      "bossRaid-rugaru",
-      "petHome-kokoru",
-      "aiChat-kokoru",
-      "personalFarm-kokoru",
-      "shiftFarm-kokoru",
-      "bossRaid-kokoru"
-    ]
-  }
+  ]
 }
