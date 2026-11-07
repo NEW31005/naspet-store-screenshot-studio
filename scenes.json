@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2c3f776bd7ea0ba518602e9002572a44ca9ddf07",
+  "sourceCommit": "edf8a469255e595af8709ddff47bf4174ffb1e0d",
   "data": "synthetic",
   "locale": "ja-JP",
   "fixtureTime": "2026-08-08T12:00:00+09:00",
   "scenes": [
     {
       "id": "petHome",
+      "sceneId": "petHome",
+      "pet": "chibiru",
       "title": "ナスペットホーム",
       "purpose": "ペットとホームの紹介",
       "width": 1290,
@@ -43,8 +45,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1743379,
-          "sha256": "f9da2f6fcaf2767801d25bad057b84be77ceb44df34447292ac9a608860c6132",
+          "bytes": 1730794,
+          "sha256": "b84b762eddb82f47575ca0a0cb30d34097f4b8422ab123d844758b87f23d77e5",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome.png",
           "contentRect": {
             "left": 26,
@@ -87,6 +89,8 @@
     },
     {
       "id": "aiChat",
+      "sceneId": "aiChat",
+      "pet": "chibiru",
       "title": "AIチャット・話しかけ",
       "purpose": "ペットとの会話機能の紹介",
       "width": 1290,
@@ -123,8 +127,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 940516,
-          "sha256": "294a9b1d2e932957f899e8dfbdf29677ac332e5687fa4b5aaf295a06465f395e",
+          "bytes": 940257,
+          "sha256": "cc94a37525dc9e7ecd91c836d358b471b3036155908420b0e6b872465d8a74ec",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat.png",
           "contentRect": {
             "left": 26,
@@ -167,6 +171,8 @@
     },
     {
       "id": "socialChat",
+      "sceneId": "socialChat",
+      "pet": null,
       "title": "有人チャット",
       "purpose": "グループ・個別チャットの紹介",
       "width": 1290,
@@ -240,6 +246,8 @@
     },
     {
       "id": "socialStickers",
+      "sceneId": "socialStickers",
+      "pet": null,
       "title": "有人チャットのスタンプ一覧",
       "purpose": "スタンプコレクションの紹介",
       "width": 1290,
@@ -313,6 +321,8 @@
     },
     {
       "id": "monthCalendar",
+      "sceneId": "monthCalendar",
+      "pet": null,
       "title": "月間シフト",
       "purpose": "シフトの月間表示の紹介",
       "width": 1290,
@@ -342,8 +352,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1249640,
-          "sha256": "6c03c88aafb7f1fa83ea479a041d6e3fa90566038aabe990fb5fa0564ee0c6e4",
+          "bytes": 1239191,
+          "sha256": "18101ec3bf7e74d21d482a4ec9175b85266538028c8ed7dc02a93f977f423f21",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/monthCalendar.png",
           "contentRect": {
             "left": 26,
@@ -386,13 +396,15 @@
     },
     {
       "id": "sharedSchedule",
+      "sceneId": "sharedSchedule",
+      "pet": null,
       "title": "共有シフト",
       "purpose": "グループのシフト共有の紹介",
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 327043,
-      "sha256": "0d0dd355aa2830cc5d8f470e07f48970953d08aa3f697b9d0ef4d4f920b3d53a",
+      "bytes": 327456,
+      "sha256": "d542f25fb2133b72bc0adda870d2d1b561008a6c6a9130f2e9c61072dc4c152a",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=sharedSchedule",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/sharedSchedule.png",
       "variants": {
@@ -400,8 +412,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 192703,
-          "sha256": "29b394f82f52549d18061bc307f8c90f54de08756008ffb2c39669d3d31757b3",
+          "bytes": 192714,
+          "sha256": "034f9650bf4abe74afae685b6ad3b40c24660d5d648bba9b93ea27c1291133b0",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/sharedSchedule.png",
           "contentRect": {
             "left": 0,
@@ -415,8 +427,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1250073,
-          "sha256": "8abeb278f1611616201abbddbab3d4e1ef0d81494435af6df42dddd46aeefef6",
+          "bytes": 1239613,
+          "sha256": "d8f40cc893fd4f99d7eaf41f7972662c5835f1baad6afc8095f195875b3f08e6",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/sharedSchedule.png",
           "contentRect": {
             "left": 26,
@@ -459,6 +471,8 @@
     },
     {
       "id": "friendList",
+      "sceneId": "friendList",
+      "pet": null,
       "title": "フレンドカード",
       "purpose": "フレンド画面の紹介",
       "width": 1290,
@@ -532,13 +546,15 @@
     },
     {
       "id": "personalFarm",
+      "sceneId": "personalFarm",
+      "pet": "chibiru",
       "title": "個人ファーム",
       "purpose": "個別の畑と育成の紹介",
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4487201,
-      "sha256": "54ba05a5dd75c16af2ea609b344b1531f186b424428cc0dd48f78918a0553c7b",
+      "bytes": 4492138,
+      "sha256": "6e38e32925ac08c3dac9d34328707730c6aed5430a8d259a13d15f442755acd5",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm.png",
       "variants": {
@@ -546,8 +562,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1982799,
-          "sha256": "c617fceb1b40b4447f7157319e5f9dff8966fa0dbd90888a8466f1cdbfd6108d",
+          "bytes": 1983768,
+          "sha256": "9675b302a83696b417db472b039e6f14a27269cab2d8a723f711132e179c7025",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm.png",
           "contentRect": {
             "left": 0,
@@ -561,8 +577,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2844771,
-          "sha256": "b1591885bafbb8201202b13113d10589c0bbf4376a423aee96bdc935a7edd7a3",
+          "bytes": 2834446,
+          "sha256": "1bcb6d5e3f0b63210c9edcf080c0afab868e34c38be8dffa93c4028939ece894",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm.png",
           "contentRect": {
             "left": 26,
@@ -605,13 +621,15 @@
     },
     {
       "id": "shiftFarm",
+      "sceneId": "shiftFarm",
+      "pet": "chibiru",
       "title": "シフトファーム",
       "purpose": "グループファームの紹介",
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4562515,
-      "sha256": "961f1ac68e9555ba25fb2f1126ae23ec64152bc3f261cdf8ed7fec4b71f802ac",
+      "bytes": 4521018,
+      "sha256": "d2d83281a0477139c79d35e26c62f329db12a8041e9231dab028c4957e54b173",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm.png",
       "variants": {
@@ -619,8 +637,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2232173,
-          "sha256": "cc76f468aced5b95063128ddd0fea6c0c8b4ef157e7f17426c79d854a9221481",
+          "bytes": 2210305,
+          "sha256": "688e4eb64f551e06d896eda98ac82e5fe28f269c6501236312c3472f1f2a1b3a",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm.png",
           "contentRect": {
             "left": 0,
@@ -634,8 +652,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2076846,
-          "sha256": "c3d6ce63501efd717a7dd8bf6de4f8f4cbbf1bb21fc30f208dbd7a06c997641d",
+          "bytes": 2066700,
+          "sha256": "d6c1f0b224f0fc85ad82e1e53bfad32dd542115542a693fde60281be88ea4ace",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm.png",
           "contentRect": {
             "left": 26,
@@ -678,6 +696,8 @@
     },
     {
       "id": "shop",
+      "sceneId": "shop",
+      "pet": null,
       "title": "ナスペットショップ",
       "purpose": "撮影用の商品・スタンプ表示の紹介",
       "width": 1290,
@@ -751,6 +771,8 @@
     },
     {
       "id": "referralReward",
+      "sceneId": "referralReward",
+      "pet": null,
       "title": "紹介特典",
       "purpose": "撮影用の紹介特典画面",
       "width": 1290,
@@ -824,13 +846,15 @@
     },
     {
       "id": "bossRaid",
+      "sceneId": "bossRaid",
+      "pet": "chibiru",
       "title": "BOSS戦",
       "purpose": "BOSS戦の撮影用プレビュー",
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 4089175,
-      "sha256": "e00f49689c78f613e71cd9ab6050da2502b37fe67eefe90ef73f8c275f940691",
+      "bytes": 4089857,
+      "sha256": "d5fd5c16476da6450bb7d4021aec02ac38066f980d1c0684656e304dcc934a84",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid.png",
       "variants": {
@@ -838,8 +862,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 1706085,
-          "sha256": "a4650bc1f52222a21ca861cb33296f3e4990b7731c13fd1f7be5effe1abbec8f",
+          "bytes": 1706022,
+          "sha256": "d6f3cb0755b22c6eb8cd3b2bda10b3523250792585567ba7885dc4476e1c23af",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid.png",
           "contentRect": {
             "left": 0,
@@ -853,8 +877,8 @@
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 2517367,
-          "sha256": "ad342ddcaccbdc0b0ef7887532359bb012cfda14873c9f1a0d0dcf55c7e2e072",
+          "bytes": 2504902,
+          "sha256": "70d0220cb9b1412d373c01af8bc39b5cc9f9189aa19b5704ecb61f142ab60158",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid.png",
           "contentRect": {
             "left": 26,
@@ -883,6 +907,1562 @@
             },
             {
               "sceneId": "petHome",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "petHome-mimiru",
+      "sceneId": "petHome",
+      "pet": "mimiru",
+      "title": "ナスペットホーム",
+      "purpose": "ペットとホームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2748943,
+      "sha256": "921c2fac0afb0030f512d41b9201719011deea8febab0aa71406cd82cb0b6cd6",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=mimiru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-mimiru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2219344,
+          "sha256": "14dbdbe0ce03b0ea456c48f72801e2eb644fe17ed6031a616af71b9237ed9566",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-mimiru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "921c2fac0afb0030f512d41b9201719011deea8febab0aa71406cd82cb0b6cd6"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 1726870,
+          "sha256": "abcdc1d4d5022fba8769017f31d2286b27c7b734b519eac97a5cf8ac11a1d56f",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-mimiru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "petHome-mimiru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-mimiru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "aiChat-mimiru",
+      "sceneId": "aiChat",
+      "pet": "mimiru",
+      "title": "AIチャット・話しかけ",
+      "purpose": "ペットとの会話機能の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2743285,
+      "sha256": "79e3fe4a645e6867894060a3d00b2deda9569fb6f294c48248dd05536a21308a",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=mimiru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-mimiru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2214398,
+          "sha256": "a9a23a5f0c65c168d64539d6210cdb0f667a6704a9e6c7ab94f4f0e9c811daab",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-mimiru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "79e3fe4a645e6867894060a3d00b2deda9569fb6f294c48248dd05536a21308a"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 939931,
+          "sha256": "1e61a8a84ca83ebe28e5d1c534c8b2ca29a10b6de14afa1c31053d36f891f8e2",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-mimiru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "aiChat-mimiru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "personalFarm-mimiru",
+      "sceneId": "personalFarm",
+      "pet": "mimiru",
+      "title": "個人ファーム",
+      "purpose": "個別の畑と育成の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4493209,
+      "sha256": "44bfbfd877a5ebaa883e2aa5fd7d9d466cce74b48eafcab5b4d3938f6a82add2",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=mimiru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-mimiru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1983883,
+          "sha256": "cd8ed10ba1572c6e88bf2bf86028ceb34b9701e05eef837fb792e4cb02804c1a",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-mimiru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2835887,
+          "sha256": "53e0944c069f479d304c2e020812430e54d82051136b5090a2ad357659187dda",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-mimiru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "personalFarm-mimiru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-mimiru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "bossRaid-mimiru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "shiftFarm-mimiru",
+      "sceneId": "shiftFarm",
+      "pet": "mimiru",
+      "title": "シフトファーム",
+      "purpose": "グループファームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4516870,
+      "sha256": "d553d3cf6cc532f8fe5ed2577e5b30391a63429cef03bb1bff96a42c69eb0415",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=mimiru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-mimiru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2207096,
+          "sha256": "413bc91a567aed04d0075d281d897f855cb57a4ef0b7118c522d25626470f43b",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-mimiru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2066069,
+          "sha256": "77498c8f1d10a71bff7ba173ba60a67f353626878b371954951c3feda89ef6f4",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-mimiru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "shiftFarm-mimiru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "personalFarm-mimiru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "bossRaid-mimiru",
+      "sceneId": "bossRaid",
+      "pet": "mimiru",
+      "title": "BOSS戦",
+      "purpose": "BOSS戦の撮影用プレビュー",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4091560,
+      "sha256": "43b387ca0b0c48c295161a898c32b86ba583d43d46d9261d89e42fdbcda1ae9f",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid&pet=mimiru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid-mimiru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1701564,
+          "sha256": "4167536866408521ff5d3781a37aaf5b35b689ace712d58f9f36feb436de6b14",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-mimiru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2503193,
+          "sha256": "511bb7deaabc016a6b0c485e5aa86e4de9794ca76df1358049ac275301e2547b",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-mimiru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "bossRaid-mimiru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-mimiru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "petHome-mimiru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "petHome-hamuru",
+      "sceneId": "petHome",
+      "pet": "hamuru",
+      "title": "ナスペットホーム",
+      "purpose": "ペットとホームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2773159,
+      "sha256": "2715cef04060c27c37c3c6c77fda8a19c14391d3f1d35098d94740cd0013c4bb",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=hamuru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-hamuru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2279968,
+          "sha256": "066b59eeeec9e204de09463162888080b19e288f50c9fede014c8a62f060812f",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-hamuru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "2715cef04060c27c37c3c6c77fda8a19c14391d3f1d35098d94740cd0013c4bb"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 1736203,
+          "sha256": "fac924470e3263110b8b97d051fe8d57baf62ee8b67df4734ca0802606eb47a3",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-hamuru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "petHome-hamuru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-hamuru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "aiChat-hamuru",
+      "sceneId": "aiChat",
+      "pet": "hamuru",
+      "title": "AIチャット・話しかけ",
+      "purpose": "ペットとの会話機能の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2787136,
+      "sha256": "ee76c14ff9a0f171a4c498a094291c49aeeda3b343710112e9115d4132bda316",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=hamuru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-hamuru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2295260,
+          "sha256": "2cfcfa0ddbc893871eca20695f17921a10100db9791eee74a8272508d539fd44",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-hamuru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "ee76c14ff9a0f171a4c498a094291c49aeeda3b343710112e9115d4132bda316"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 945331,
+          "sha256": "91aa4b15a6fc5d18bccdca6e119afbf0f6d3cc91fd21a36aefc526356a85502e",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-hamuru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "aiChat-hamuru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "personalFarm-hamuru",
+      "sceneId": "personalFarm",
+      "pet": "hamuru",
+      "title": "個人ファーム",
+      "purpose": "個別の畑と育成の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4494943,
+      "sha256": "34841b33b74133e5f8db0387bead61e9f4786867c1726479009f11c73f844aac",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=hamuru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-hamuru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1983776,
+          "sha256": "70b65b1371cf06f0bdb03fae6fa06de15a580218f13873361155e99c57821c98",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-hamuru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2837848,
+          "sha256": "13940e010d91b4f6cf96357aec6b272d4b2b21981f39b28e98163b399d130b0b",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-hamuru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "personalFarm-hamuru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-hamuru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "bossRaid-hamuru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "shiftFarm-hamuru",
+      "sceneId": "shiftFarm",
+      "pet": "hamuru",
+      "title": "シフトファーム",
+      "purpose": "グループファームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4520582,
+      "sha256": "a9bc882acc8e36d2a65cd9080a18dc613f583808b806c03195fa784e7aa4c0b1",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=hamuru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-hamuru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2208420,
+          "sha256": "58e38e41f7a7f1a66a7cbc5e07f5284588c2cb22aa1d90e3bb98dad2451ae0fd",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-hamuru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2067271,
+          "sha256": "e4b5be1e7c8a6e7e369f78121d5b0b8bf7564920e02cca22da209538c7a114e1",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-hamuru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "shiftFarm-hamuru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "personalFarm-hamuru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "bossRaid-hamuru",
+      "sceneId": "bossRaid",
+      "pet": "hamuru",
+      "title": "BOSS戦",
+      "purpose": "BOSS戦の撮影用プレビュー",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4100645,
+      "sha256": "646a853b90af8c7230abe0fc257bea0b37ed2b7e73700d08418f02baec2cf86c",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid&pet=hamuru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid-hamuru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1707299,
+          "sha256": "fbdfad7474c269bca444604420c7007017f4db6449dad0fad6de6e1401852ddb",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-hamuru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2513391,
+          "sha256": "56fbbc1ad5b2afcec087b6ee8ea03434fefc90fe7870cf485dc249723230b4c3",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-hamuru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "bossRaid-hamuru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-hamuru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "petHome-hamuru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "petHome-rugaru",
+      "sceneId": "petHome",
+      "pet": "rugaru",
+      "title": "ナスペットホーム",
+      "purpose": "ペットとホームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2999157,
+      "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=rugaru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-rugaru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2579945,
+          "sha256": "ef41adb8493cc519b385042f458e10a766d82d3317fa503b384f19eb5aa29d62",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-rugaru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 1834653,
+          "sha256": "913bc78fce8aa37ffd3e7353642a424a2e9df2796c12b8d09305084737bd53d9",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-rugaru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "petHome-rugaru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-rugaru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "aiChat-rugaru",
+      "sceneId": "aiChat",
+      "pet": "rugaru",
+      "title": "AIチャット・話しかけ",
+      "purpose": "ペットとの会話機能の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2999157,
+      "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=rugaru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-rugaru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2579945,
+          "sha256": "ef41adb8493cc519b385042f458e10a766d82d3317fa503b384f19eb5aa29d62",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-rugaru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "0580bcabf9de5ddae91285456f7105acf80bcc52c8c3e566fd61f645ed39b970"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 1027223,
+          "sha256": "517a1404a4c95ff8ce0f429db405d3b5242d450986abc0a7a6ee1a8e69e02d5e",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-rugaru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "aiChat-rugaru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "personalFarm-rugaru",
+      "sceneId": "personalFarm",
+      "pet": "rugaru",
+      "title": "個人ファーム",
+      "purpose": "個別の畑と育成の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4481525,
+      "sha256": "f8fd0a43ee90f3b217dc2c2519ba4078eeef1fd85e5ca2596d7c06eb188a72e6",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=rugaru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-rugaru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1983879,
+          "sha256": "a0e9005cc49c0a9d999cf937fcbd4cd70e19f9dd76c41d7b4932441fb2c6c27c",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-rugaru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2836060,
+          "sha256": "7c886c24c61b683ac1a0cb90e34c2fe584ff34aab2fbc52dcf2915f0e8afea0e",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-rugaru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "personalFarm-rugaru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-rugaru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "bossRaid-rugaru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "shiftFarm-rugaru",
+      "sceneId": "shiftFarm",
+      "pet": "rugaru",
+      "title": "シフトファーム",
+      "purpose": "グループファームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4529997,
+      "sha256": "cb9d3c007ec3e42d1dca24053af459c11ca68266c711e602993deaa61b587874",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=rugaru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-rugaru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2209337,
+          "sha256": "05264cff3977c4e5a584c74a28cfc0decb8397066d7d7fa6aa08b16018d17fed",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-rugaru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2067543,
+          "sha256": "b92d3f676d83b706fac89a2f32d798e96833ec9a68c9cd3e2047434bb430eafa",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-rugaru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "shiftFarm-rugaru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "personalFarm-rugaru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "bossRaid-rugaru",
+      "sceneId": "bossRaid",
+      "pet": "rugaru",
+      "title": "BOSS戦",
+      "purpose": "BOSS戦の撮影用プレビュー",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4103764,
+      "sha256": "16e0f61e58178ee398146f237bbaee23b530362cd040ecc2d69c54963bd5914e",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid&pet=rugaru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid-rugaru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1711035,
+          "sha256": "f1a220f4a1634841384e821e05dad86a0affcc090d03e42bcf9d82b624abf82d",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-rugaru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2611119,
+          "sha256": "81cef0638c9b564de26a706e5892186e6bddc6eb8ac9aaf7127f73a9fb123817",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-rugaru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "bossRaid-rugaru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-rugaru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "petHome-rugaru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "petHome-kokoru",
+      "sceneId": "petHome",
+      "pet": "kokoru",
+      "title": "ナスペットホーム",
+      "purpose": "ペットとホームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2797914,
+      "sha256": "469dc4304a0819ece8ef7ab39d321d853b7d1c57aee372a0d4055cac10f8b061",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome&pet=kokoru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome-kokoru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2290935,
+          "sha256": "560ca3d9e8c0523caaba9e639c8b257ceeda0454a0f31aed92e4d73669bfc208",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome-kokoru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "469dc4304a0819ece8ef7ab39d321d853b7d1c57aee372a0d4055cac10f8b061"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 1737078,
+          "sha256": "de7ab761a0bb472279808008aa710c7e2cf0a4e90aa1bb285a91834a6117977e",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome-kokoru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "petHome-kokoru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-kokoru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "aiChat-kokoru",
+      "sceneId": "aiChat",
+      "pet": "kokoru",
+      "title": "AIチャット・話しかけ",
+      "purpose": "ペットとの会話機能の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 2789231,
+      "sha256": "76a3d4dfe69d4cf21ad66c23ee8b338abb218c1a10ef6ad61e48c1d84bd57037",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=aiChat&pet=kokoru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/aiChat-kokoru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2281440,
+          "sha256": "ae435cb4a016a7210ddd7e26a06e45233a1830ba7b3568077c58387b641ba687",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/aiChat-kokoru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC",
+          "sourceCrop": {
+            "left": 1,
+            "top": 843,
+            "width": 1288,
+            "height": 1610,
+            "sha256": "76a3d4dfe69d4cf21ad66c23ee8b338abb218c1a10ef6ad61e48c1d84bd57037"
+          }
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 946220,
+          "sha256": "d40cc96a89d9ca83ba4f331c3d0f6b10a16e2c10bac8b6938b0b3032f30838ef",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/aiChat-kokoru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "aiChat-kokoru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialChat",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "socialStickers",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "personalFarm-kokoru",
+      "sceneId": "personalFarm",
+      "pet": "kokoru",
+      "title": "個人ファーム",
+      "purpose": "個別の畑と育成の紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4498413,
+      "sha256": "0be348345dc91c333f46c2107fdb694bdc5d8fc2662ede474bfd99da13a1c630",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=personalFarm&pet=kokoru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/personalFarm-kokoru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1983643,
+          "sha256": "6fea4076ec11987ace622559cc24835de273cd5d59afb9247e8d9fdc00b933eb",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/personalFarm-kokoru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2837850,
+          "sha256": "6b9f612c9a60d47129bbec161ff3a721eb8599e6cda23d5de7b4343d88ed2941",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/personalFarm-kokoru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "personalFarm-kokoru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-kokoru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "bossRaid-kokoru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "shiftFarm-kokoru",
+      "sceneId": "shiftFarm",
+      "pet": "kokoru",
+      "title": "シフトファーム",
+      "purpose": "グループファームの紹介",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4538715,
+      "sha256": "bd52c1be761e61d53bd370a15069b6b935fdeb28c8af045aa9c067700e5f8116",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=shiftFarm&pet=kokoru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/shiftFarm-kokoru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 2206662,
+          "sha256": "42bbee825c5566bc666b37d493cbe181a87372c5b116ff80e049234388c8b084",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/shiftFarm-kokoru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2067003,
+          "sha256": "6dbdb8b47fc30632eabb61bf5a647d0f52c3eee45915a149cf67a3c27834bb96",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/shiftFarm-kokoru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "shiftFarm-kokoru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "sharedSchedule",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "personalFarm-kokoru",
+              "contentRect": {
+                "left": 1074,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            }
+          ],
+          "background": "#FFFAFC"
+        }
+      }
+    },
+    {
+      "id": "bossRaid-kokoru",
+      "sceneId": "bossRaid",
+      "pet": "kokoru",
+      "title": "BOSS戦",
+      "purpose": "BOSS戦の撮影用プレビュー",
+      "width": 1290,
+      "height": 2796,
+      "format": "png",
+      "bytes": 4096563,
+      "sha256": "9a2fe3e8f129e8b36d2928e7cbe5327a8152bbc4bfde7cdd711004394d3e7bd5",
+      "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=bossRaid&pet=kokoru",
+      "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/bossRaid-kokoru.png",
+      "variants": {
+        "instagram": {
+          "width": 1080,
+          "height": 1350,
+          "format": "png",
+          "bytes": 1704532,
+          "sha256": "0bead3cc556ce333c5d7455af55840704025a587c94c1f8ad94a8774a85a1178",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/bossRaid-kokoru.png",
+          "contentRect": {
+            "left": 0,
+            "top": 0,
+            "width": 1080,
+            "height": 1350
+          },
+          "background": "#FFFAFC"
+        },
+        "x": {
+          "width": 1600,
+          "height": 900,
+          "format": "png",
+          "bytes": 2514470,
+          "sha256": "57aaafe0f1293c3c4d977091b8e3d7f4b4c243133d6ecb3ae4001837cfb06b57",
+          "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/bossRaid-kokoru.png",
+          "contentRect": {
+            "left": 26,
+            "top": 0,
+            "width": 500,
+            "height": 900
+          },
+          "panels": [
+            {
+              "sceneId": "bossRaid-kokoru",
+              "contentRect": {
+                "left": 26,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "shiftFarm-kokoru",
+              "contentRect": {
+                "left": 550,
+                "top": 0,
+                "width": 500,
+                "height": 900
+              }
+            },
+            {
+              "sceneId": "petHome-kokoru",
               "contentRect": {
                 "left": 1074,
                 "top": 0,
