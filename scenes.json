@@ -14,8 +14,8 @@
       "width": 1290,
       "height": 2796,
       "format": "png",
-      "bytes": 2765218,
-      "sha256": "517dcafd168460c0e3b492077a2c2151dfef892b44dab6144b58ee397d0f3f73",
+      "bytes": 2766339,
+      "sha256": "d4c0a43c73869eb48aa4a6d0bc345e71ffcbd73d01fe0bf95eb993859b5c540c",
       "sceneUrl": "https://new31005.github.io/naspet-store-screenshot-studio/?scene=petHome",
       "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/petHome.png",
       "variants": {
@@ -23,8 +23,8 @@
           "width": 1080,
           "height": 1350,
           "format": "png",
-          "bytes": 2260189,
-          "sha256": "e6ed5ae0686557bab20dc79bf4cf938947ee88b04474ca952849ec952e5b34ac",
+          "bytes": 2263562,
+          "sha256": "4529ca75fc8140a89bfdb73b13ef922542ab29c64171cac8846ff21d52f09fba",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/instagram/petHome.png",
           "contentRect": {
             "left": 0,
@@ -38,15 +38,15 @@
             "top": 843,
             "width": 1288,
             "height": 1610,
-            "sha256": "517dcafd168460c0e3b492077a2c2151dfef892b44dab6144b58ee397d0f3f73"
+            "sha256": "d4c0a43c73869eb48aa4a6d0bc345e71ffcbd73d01fe0bf95eb993859b5c540c"
           }
         },
         "x": {
           "width": 1600,
           "height": 900,
           "format": "png",
-          "bytes": 1730794,
-          "sha256": "b84b762eddb82f47575ca0a0cb30d34097f4b8422ab123d844758b87f23d77e5",
+          "bytes": 1731247,
+          "sha256": "1aeb3fcba7ecbf7d942a98c6c452406818ecb43dc5e98ab1044c4793fa8756bb",
           "imageUrl": "https://new31005.github.io/naspet-store-screenshot-studio/images/x/petHome.png",
           "contentRect": {
             "left": 26,
@@ -85,6 +85,11 @@
           ],
           "background": "#FFFAFC"
         }
+      },
+      "capturePose": {
+        "animation": "idle_blink",
+        "frameIndex": 0,
+        "animationStopped": true
       }
     },
     {
@@ -2475,5 +2480,43 @@
         }
       }
     }
-  ]
+  ],
+  "openEyeRefresh": {
+    "completed": [
+      "petHome"
+    ],
+    "remaining": [
+      "aiChat",
+      "socialChat",
+      "socialStickers",
+      "monthCalendar",
+      "sharedSchedule",
+      "friendList",
+      "personalFarm",
+      "shiftFarm",
+      "shop",
+      "referralReward",
+      "bossRaid",
+      "petHome-mimiru",
+      "aiChat-mimiru",
+      "personalFarm-mimiru",
+      "shiftFarm-mimiru",
+      "bossRaid-mimiru",
+      "petHome-hamuru",
+      "aiChat-hamuru",
+      "personalFarm-hamuru",
+      "shiftFarm-hamuru",
+      "bossRaid-hamuru",
+      "petHome-rugaru",
+      "aiChat-rugaru",
+      "personalFarm-rugaru",
+      "shiftFarm-rugaru",
+      "bossRaid-rugaru",
+      "petHome-kokoru",
+      "aiChat-kokoru",
+      "personalFarm-kokoru",
+      "shiftFarm-kokoru",
+      "bossRaid-kokoru"
+    ]
+  }
 }
